@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.larg {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .mid {
+    display: none;
+  }
+  .larg {
+    display: flex;
+  }
+}

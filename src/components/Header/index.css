@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.logo {
+  height: 50px;
+}
+.navbar {
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+}
